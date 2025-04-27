@@ -1,0 +1,35 @@
+[14:01:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:01:13] [ServerMain/INFO]: No existing world data, creating new world
+[14:01:13] [ServerMain/INFO]: Loaded 1337 recipes
+[14:01:13] [ServerMain/INFO]: Loaded 1448 advancements
+[14:01:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[14:01:13] [Server thread/INFO]: Loading properties
+[14:01:13] [Server thread/INFO]: Default game type: SURVIVAL
+[14:01:13] [Server thread/INFO]: Generating keypair
+[14:01:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:01:14] [Server thread/INFO]: Using epoll channel type
+[14:01:14] [Server thread/INFO]: Preparing level "world"
+[14:01:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[14:01:20] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[14:01:20] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[14:01:21] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[14:01:21] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[14:01:22] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[14:01:22] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[14:01:23] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[14:01:23] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[14:01:23] [Server thread/INFO]: Time elapsed: 4050 ms
+[14:01:23] [Server thread/INFO]: Done (9.784s)! For help, type "help"
+[14:01:39] [User Authenticator #1/INFO]: UUID of player UrtryBlade is 8071038f-edbf-4a46-96e3-3a0f919427e8
+[14:01:39] [Server thread/INFO]: UrtryBlade[/127.220.62.192:33881] logged in with entity id 52 at (-791.5, 63.0, 185.5)
+[14:01:39] [Server thread/INFO]: UrtryBlade joined the game
+[14:01:57] [User Authenticator #2/INFO]: UUID of player Dytro_9 is 4329fcbf-f85c-4ad3-a67d-7e745d794e6a
+[14:01:57] [Server thread/INFO]: Dytro_9[/127.220.62.192:44085] logged in with entity id 396 at (-783.5, 63.0, 202.5)
+[14:01:57] [Server thread/INFO]: Dytro_9 joined the game
+[14:04:43] [Server thread/INFO]: Created new objective [health]
+[14:05:18] [Server thread/INFO]: Set display slot list to show objective health
+[14:07:08] [Server thread/INFO]: UrtryBlade has made the advancement [Stone Age]
+[14:07:16] [Server thread/INFO]: Dytro_9 has made the advancement [Stone Age]
+[14:07:35] [Server thread/INFO]: UrtryBlade has made the advancement [Getting an Upgrade]
+[14:07:48] [Server thread/INFO]: Dytro_9 has made the advancement [Getting an Upgrade]
