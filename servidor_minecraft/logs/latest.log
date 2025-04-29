@@ -22,3 +22,11 @@
 [09:30:59] [User Authenticator #1/INFO]: UUID of player UrtryBlade is 8071038f-edbf-4a46-96e3-3a0f919427e8
 [09:31:00] [Server thread/INFO]: UrtryBlade[/127.224.159.170:46033] logged in with entity id 19 at (-1163.3220572948962, 128.0, 1336.6669491350399)
 [09:31:00] [Server thread/INFO]: UrtryBlade joined the game
+[09:40:48] [Server thread/INFO]: UrtryBlade lost connection: Disconnected
+[09:40:48] [Server thread/INFO]: UrtryBlade left the game
+[09:40:50] [User Authenticator #2/INFO]: UUID of player UrtryBlade is 8071038f-edbf-4a46-96e3-3a0f919427e8
+[09:40:50] [Server thread/INFO]: UrtryBlade[/127.224.159.170:54397] logged in with entity id 1546 at (-1162.1213825459486, 127.875, 1336.503565957562)
+[09:40:50] [Server thread/INFO]: UrtryBlade joined the game
+[09:42:26] [Server thread/INFO]: UrtryBlade lost connection: Disconnected
+[09:42:26] [Server thread/INFO]: UrtryBlade left the game
+[09:43:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
